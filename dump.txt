@@ -1,0 +1,6 @@
+not qf:
+
+MSSubClass
+MSZoning
+LotConfig
+Neighborhood
